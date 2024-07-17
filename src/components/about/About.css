@@ -1,0 +1,33 @@
+.images{
+    height: 500px;
+    width: 500px;
+    
+}
+
+.about{
+    display: flex;
+    margin-top: 200px;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-right: 20%;
+}
+
+.details h1{
+    font-size: 70px;
+    
+}
+
+.details{
+    display: inline;
+}
+
+.about-head{
+    color:orange;
+}
+
+.details p{
+    font-size: 20px;
+    margin-top: 20px;
+    
+}

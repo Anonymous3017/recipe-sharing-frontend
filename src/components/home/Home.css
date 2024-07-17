@@ -1,0 +1,38 @@
+.new{
+    font-size: 50px;;
+    color: rgb(31, 22, 22);
+    margin-left: 20px;
+    margin-top: 200px;
+}
+.new p{
+    font-size: 20px;
+}
+
+.home{
+    display: flex;
+    margin-left: 60px;
+    
+}
+
+.imge{
+    height: 600px;
+    width: 600px;
+    margin-left: 30%;
+    margin-top: 100px ;
+}
+
+.btns{
+    width: 160px;
+    height: 55px;
+    border: none;
+    background-color: orange;
+    margin-top: 20px;
+    border-radius: 30px;
+    font-size: 16px;
+    color: white;
+    
+}
+
+.but-div{
+    display: flex;
+}
